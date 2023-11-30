@@ -1,4 +1,4 @@
-# Entrega2
+# Entrega1
 
 He abierto terminal y he ido hacia el directorio donde voy a crear elrepositorio. He creado una carpeta con el nombre del repositorio.
 
